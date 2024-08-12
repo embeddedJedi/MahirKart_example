@@ -20,7 +20,7 @@ for flight.
 
 # Instagram Video:
 
-<a href="[https://www.instagram.com/p/VIDEO_ID/](https://www.instagram.com/reel/Cxswjo8IJTJ/)">
+<a href="https://www.instagram.com/reel/Cxswjo8IJTJ/">
     <img src="https://github.com/user-attachments/assets/a24b8ae9-c9e7-47af-ab6b-435e268e2032" alt="Instagram Video" style="width:10%; height:10%;">
 </a> 
 
